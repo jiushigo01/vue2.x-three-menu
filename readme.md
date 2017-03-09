@@ -33,9 +33,12 @@ php artisan serve
 # 监听
 npm run watch
 
+
 # 编译
 npm run build
 ```
+
+预览 http://localhost:8000
 
 ### demo
 
