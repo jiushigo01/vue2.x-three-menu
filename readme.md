@@ -1,3 +1,5 @@
+### demo
+
 <img src="https://github.com/wanghui92/vue2.x-three-menu/blob/master/showdemo.gif">
 
 本项目基于laravel5.4 + vue2.x + ElememtUI搭建
@@ -30,7 +32,7 @@ composer install
 cnpm install
 
 # 启动server
-php artisan serve 或者使用xampp或
+php artisan serve 或者使用xampp或wamp
 
 # 监听
 npm run watch
@@ -43,5 +45,3 @@ npm run build
 请将env.example文件改为env文件
 
 预览 http://localhost:8000
-
-### demo
