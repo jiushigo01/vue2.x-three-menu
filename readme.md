@@ -18,7 +18,7 @@
 使用步骤
 ``` bash
 # get project
-git clone https://gitea.sailengsi.com/product/sls-admin.git
+git clone git@github.com:wanghui92/vue2.x-three-menu.git
 
 
 # laravel
