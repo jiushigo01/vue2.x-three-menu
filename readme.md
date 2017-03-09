@@ -1,5 +1,4 @@
-<video src="https://github.com/wanghui92/vue2.x-three-menu/blob/master/showdemo.wmv" controls="controls">
-</video>
+<img src="https://github.com/wanghui92/vue2.x-three-menu/blob/master/showdemo.gif">
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
