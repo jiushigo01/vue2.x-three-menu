@@ -1,3 +1,6 @@
+<video src="https://github.com/wanghui92/vue2.x-three-menu/blob/master/showdemo.wmv" controls="controls">
+</video>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
